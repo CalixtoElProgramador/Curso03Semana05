@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Curso03Semana03</string>
+    <string name="cardview_title">Carlos Salinas de Gortari</string>
+    <string name="cardview_rate">5 huesitos dorados</string>
+    <string name="cardview_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut consequat orci. Maecenas sit amet justo eu tortor facilisis molestie sed quis metus.</string>
+    <string name="cardview_action_01">Dar huesito</string>
+    <string name="cardview_add_favorites">Añadir</string>
+    <string name="cardview_remove_favorites">Quitar</string>
+    <string name="favorite">Favoritos</string>
+    <string name="contact">Contacto</string>
+    <string name="page_title">Mascotas</string>
+    <string name="content_description_favorite">ícono de favoritos</string>
+    <string name="content_description_contact">ícono de ver más</string>
+    <string name="page_title_favorites">Favoritos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_label_01">Explorar</string>
+    <string name="text_label_02">Perfil</string>
+    <string name="content_tab_layout_main">TabLayoutMain</string>
+    <string name="content_label_01">TabItemMain01</string>
+    <string name="content_label_02">TabItemMain02</string>
+    <string name="profile_name">Carlos Salinas</string>
+    <string name="about_of">Acerda de</string>
+    <string name="content_description_about_of">ContentDescripcion acerca de</string>
+    <string name="page_title_contact">Contacto</string>
+    <string name="page_title_about_of">Acerca de</string>
+    <string name="name">Nombre</string>
+    <string name="required">Requerido</string>
+    <string name="mail">Correo (destinatario)</string>
+    <string name="message">Mensaje</string>
+    <string name="send">Enviar</string>
+    <string name="text_aboutOf">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec metus dui, consectetur eleifend eros et, gravida eleifend sem. Praesent vulputate enim mauris, a posuere quam mattis eu. Phasellus ornare porta nibh, in suscipit velit laoreet pharetra. Donec scelerisque augue tortor, at gravida ipsum tristique at. Aenean elementum est et urna luctus hendrerit. Sed sed augue id arcu laoreet sodales. In id ligula eget diam lobortis imperdiet in id est. Sed sodales ligula eros, id faucibus nibh maximus non. Donec volutpat malesuada accumsan. Curabitur eget posuere ligula. Sed sapien magna, consectetur sit amet pharetra vitae, pulvinar eu erat.  Fusce at faucibus ante. Nam non elit leo. Fusce luctus ut ligula nec aliquet. Sed lacinia nisl erat, eget semper eros tempus vitae. Vivamus a sem sagittis, efficitur mi id, sollicitudin dolor. Maecenas at mi ac dui vehicula commodo id eu ex. Nam lacus tellus, euismod eu rutrum a, laoreet ac neque. Morbi lobortis nunc non eleifend luctus. Etiam turpis urna, accumsan a metus vitae, viverra egestas metus. Suspendisse auctor gravida odio non posuere.</string>
+    <string name="text_i_like_the_pizza">Me gusta la pizza</string>
+    <string name="error_input_empty">Este campo no puede quedar vacío</string>
+    <string name="error_email_false">Inserte un correo válido</string>
+    <string name="envoy">Enviado</string>
+    <string name="subject">Asunto</string>
+
+</resources>
